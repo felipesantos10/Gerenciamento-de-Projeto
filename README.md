@@ -30,7 +30,7 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ## Grade do Curso:
 
-### Foundations of Project Management (Curso 1)
+### [Foundations of Project Management - Curso 1](/curso%201/README.MD)
 - Duração: 18 horas
 - **O que irei aprender:**
   - Descrever habilidades, papéis e responsabilidades de gerenciamento de projetos em diversas indústrias.
