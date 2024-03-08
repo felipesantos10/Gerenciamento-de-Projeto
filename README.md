@@ -32,7 +32,6 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ### Foundations of Project Management (Curso 1)
 - Duração: 18 horas
-- Classificação: 4.9 (77.595 classificações)
 - **O que irei aprender:**
   - Descrever habilidades, papéis e responsabilidades de gerenciamento de projetos em diversas indústrias.
   - Explicar o ciclo de vida do gerenciamento de projetos e comparar diferentes metodologias de gerenciamento de programas.
@@ -40,7 +39,6 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ### Project Initiation: Starting a Successful Project (Curso 2)
 - Duração: 23 horas
-- Classificação: 4.8 (19.019 classificações)
 - **O que irei  aprender:**
   - Compreender a importância da fase de iniciação do ciclo de vida do projeto.
   - Identificar os componentes-chave de cartas de projeto e desenvolver uma carta de projeto para a iniciação do projeto.
@@ -49,7 +47,6 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ### Project Planning: Putting It All Together (Curso 3)
 - Duração: 33 horas
-- Classificação: 4.8 (11.407 classificações)
 - **O que irei  aprender:**
   - Descrever os componentes da fase de planejamento do projeto e sua importância.
   - Identificar ferramentas e melhores práticas para construir um plano de projeto e um plano de gerenciamento de riscos.
@@ -58,7 +55,6 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ### Project Execution: Running the Project (Curso 4)
 - Duração: 30 horas
-- Classificação: 4.8 (7.614 classificações)
 - **O que irei   aprender:**
   - Implementar os principais conceitos de gerenciamento da qualidade, como normas de qualidade, planejamento da qualidade, garantia da qualidade e controle da qualidade.
   - Demonstrar como priorizar e analisar dados e como comunicar a história informada por dados de um projeto.
@@ -67,7 +63,6 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
 
 ### Agile Project Management (Curso 5)
 - Duração: 28 horas
-- Classificação: 4.8 (11.252 classificações)
 - **O que irei  aprender:**
   - Explicar a abordagem e filosofia do gerenciamento ágil de projetos, incluindo valores e princípios.
   - Discutir os pilares do Scrum e como eles suportam os valores do Scrum.
@@ -75,6 +70,7 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
   - Explicar como treinar uma equipe ágil e ajudá-la a superar desafios.
 
 ### Capstone: Applying Project Management in the Real World (Curso 6)
+- Duração: 39 horas
 - **O que irei aprender:**
   - Completar uma carta de projeto, preenchendo informações-chave, incluindo um resumo do projeto, metas SMART, escopo, benefícios e custos.
   - Examinar a documentação do projeto e conduzir pesquisas para identificar tarefas para um projeto e organizar essas tarefas e marcos do projeto em um plano de projeto.
