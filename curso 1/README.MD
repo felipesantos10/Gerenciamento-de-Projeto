@@ -44,11 +44,11 @@ Exemplos de habilidades de gerenciamento de projetos incluem planejamento, organ
 - A gestão de projetos envolve reunir pessoas e alinhá-las em direção a um objetivo comum, seja pessoal ou profissional.
 
 ## Do certificado ao sucesso na carreira
-A demanda por gerentes de projeto é alta, com 87,7 milhões de pessoas necessárias para preencher funções alinhadas ao gerenciamento de projetos até 2027.
-Os gerentes de projeto podem trabalhar em vários setores, incluindo manufatura, construção, serviços de informação, serviços profissionais, finanças e petróleo e gás.
-As funções de gerenciamento de projetos podem variar dependendo do setor, mas as habilidades são transferíveis.
-Além dos cargos de gerenciamento de projetos, os graduados podem considerar estágios, trabalho por contrato ou cargos relacionados, como assistente de operações ou coordenador de projetos.
-A exploração de diferentes tipos de empresas e projetos por meio de contratos pode ajudar os graduados a encontrar o melhor ajuste para suas habilidades e interesses.
+- A demanda por gerentes de projeto é alta, com 87,7 milhões de pessoas necessárias para preencher funções alinhadas ao gerenciamento de projetos até 2027.
+- Os gerentes de projeto podem trabalhar em vários setores, incluindo manufatura, construção, serviços de informação, serviços profissionais, finanças e petróleo e gás.
+- As funções de gerenciamento de projetos podem variar dependendo do setor, mas as habilidades são transferíveis.
+- Além dos cargos de gerenciamento de projetos, os graduados podem considerar estágios, trabalho por contrato ou cargos relacionados, como assistente de operações ou coordenador de projetos.
+- A exploração de diferentes tipos de empresas e projetos por meio de contratos pode ajudar os graduados a encontrar o melhor ajuste para suas habilidades e interesses.
 
 
 
