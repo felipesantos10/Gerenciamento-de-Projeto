@@ -59,6 +59,36 @@ Exemplos de habilidades de gerenciamento de projetos incluem planejamento, organ
 
 ## _MODULO 02_
 
+### O valor de um gerente de projeto
+- Os gerentes de projeto são responsáveis por orientar os projetos do início ao fim.
+- Eles usam habilidades organizacionais e interpessoais para liderar suas equipes.
+- Os gerentes de projeto seguem um processo que envolve **planejamento, organização, gerenciamento de tarefas, orçamento e controle de custos**.
+Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e organizações:
+**Priorização**:
+- Identificam e dividem tarefas grandes em etapas menores.
+- Conectam-se com equipes e partes interessadas para determinar as tarefas mais críticas.
+**Delegação**:
+- Atribuem tarefas aos membros da equipe com base em suas habilidades.
+- Ordenam as tarefas de forma apropriada para garantir a eficiência.
+**Comunicação eficaz**:
+- Mantêm a equipe informada sobre o progresso do projeto.
+- Identificam áreas onde os membros da equipe podem precisar de suporte.
+- Mantêm contato regular com as partes interessadas externas para mantê-las informadas e obter feedback.
+
+### Foco no cliente
+- a importância do cliente no sucesso de qualquer negócio, especialmente no campo de gerenciamento de projetos. Os clientes, internos ou externos, são aqueles que definem os requisitos do projeto, estabelecem diretrizes como orçamento e prazos, e devem ser o foco central para garantir o sucesso do projeto. Os gerentes de projeto podem agregar valor construindo relacionamentos com os clientes, assegurando uma clara compreensão de suas expectativas e dedicando tempo para garantir sua satisfação com o resultado final do projeto.
+
+ ### Construção de uma ótima equipe
+ - a importância da construção de uma equipe eficaz em projetos, ressaltando que a equipe é o maior recurso do projeto. Um gerente de projeto bem-sucedido entende as motivações, pontos fortes e fracos de cada membro da equipe, identificando a equipe certa para o projeto e permitindo que ela tenha sucesso. Para formar uma grande equipe, é essencial considerar as habilidades necessárias para o projeto e os recursos disponíveis, alinhando-os com os requisitos do cliente. O texto enfatiza a importância de trazer pessoas com as habilidades certas e valorizar cada membro da equipe, demonstrando apreço e confiança através da escuta ativa, resposta às necessidades e envolvimento nos processos de tomada de decisão.
+
+
+
+
+
+
+
+
+
 
 
 
