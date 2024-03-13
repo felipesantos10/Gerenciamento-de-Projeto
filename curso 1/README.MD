@@ -83,7 +83,15 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
 
 
 
-
+### Principais funções e responsabilidades do gerente de projeto
+- Os gerentes de projeto são responsáveis por **planejar, organizar, gerenciar tarefas, controlar custos** e outros fatores para **garantir que os projetos sejam concluídos dentro do orçamento e do prazo aprovados**.
+- As responsabilidades específicas incluem:
+    - Criar processos e usar ferramentas de produtividade;
+    - Criar planos, cronogramas e outras documentações;
+    - Monitorar e gerenciar o orçamento;
+    - Identificar e mitigar riscos;
+    - Gerenciar tarefas e acompanhar o progresso;
+- Os gerentes de projeto trabalham em estreita colaboração com as equipes e as partes interessadas para garantir que todos estejam alinhados e que o projeto seja bem-sucedido.
 
 
 
