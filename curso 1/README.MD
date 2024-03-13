@@ -93,6 +93,62 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
     - Gerenciar tarefas e acompanhar o progresso;
 - Os gerentes de projeto trabalham em estreita colaboração com as equipes e as partes interessadas para garantir que todos estejam alinhados e que o projeto seja bem-sucedido.
 
+### Responsabilidades que utilizam habilidades interpessoais
+-  **Habilidades interpessoais** são os comportamentos que você usa para interagir com outras pessoas, como comunicação, escuta ativa e liderança.
+
+**Ensino e mentoria**
+- Gerente de projeto como mentor para a equipe
+- Explicação completa das expectativas para eliminar retrabalho, confusão e frustração
+- Compartilhar lições aprendidas como gerente de projeto para melhorar as escolhas da equipe
+- Apoiar cada membro da equipe para que atenda às expectativas e supere seu potencial
+
+**Construção de relacionamentos** 
+- Importância dos relacionamentos na equipe
+- Conhecer os membros da equipe como pessoas, não apenas como funcionários
+- Construir relacionamentos com clientes, fornecedores e outras partes interessadas
+- Verificar as pessoas e prestar atenção aos insights sobre seus estilos de trabalho
+- Perguntar sobre suas vidas além do projeto e manter o interesse
+- Investir nos relacionamentos para o sucesso do projeto.
+
+**Controle de custos**
+- Louis L'Amour: "A única coisa que nunca muda é que tudo muda"
+- Projetos mudam conforme se compreende expectativas e necessidades das partes interessadas
+- Gerentes de projeto devem ser flexíveis e se ajustar às necessidades das partes interessadas
+- Proteger a equipe de mudanças e retrabalho constante é importante
+- Documentar expectativas iniciais do projeto e identificar claramente mudanças solicitadas
+- Compreender o impacto das mudanças no orçamento e no cronograma e garantir que as partes interessadas entendam
+- Responsabilidade do gerente de projeto em proteger a equipe.
+
+**Capacitação da equipe**
+- Importância de ouvir e apreciar a equipe nas carreiras
+- Dar à equipe a capacidade de trabalhar diretamente com partes interessadas e membros
+- Transmitir confiança e crença nas habilidades da equipe
+- Capacitação da equipe resulta em novas ideias e entusiasmo
+- Delegar responsabilidades para permitir tomada de decisões e contribuições no projeto
+- Mentoria eficaz conduz a equipes mais capacitadas.
+
+**Comunicação de status e preocupações**
+- Comunicação é essencial para gerentes de projeto
+- Comunicação eficaz ajuda a encontrar soluções para desafios
+- O gerente estabelece o **tom do projeto**
+- Política de abertura e construção de confiança são fundamentais
+- Manter o otimismo contribui para o sucesso do projeto.
+
+### A função de um gerente de projeto dentro de uma equipe
+
+- O gerente de projeto não é necessariamente o gerente direto dos membros da equipe do projeto.
+- O gerente de projeto é responsável por orientar a equipe e garantir que ela tenha o suporte necessário para concluir o projeto.
+- O gerente de projeto não precisa ser especialista em todas as funções do projeto.
+- O gerente de projeto deve:
+    - Manter os membros da equipe responsáveis por suas tarefas atribuídas.
+    - Garantir que os problemas e riscos sejam rastreados e visíveis.
+    - Ajudar os membros da equipe a adotar os fluxos de trabalho e estilos de gerenciamento de projeto corretos.
+    - Colaborar com outras equipes da organização para atender aos requisitos com base no projeto, escopo, cronograma e orçamento.
+
+
+
+
+
 
 
 
