@@ -145,6 +145,13 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
     - Ajudar os membros da equipe a adotar os fluxos de trabalho e estilos de gerenciamento de projeto corretos.
     - Colaborar com outras equipes da organização para atender aos requisitos com base no projeto, escopo, cronograma e orçamento.
 
+### As principais habilidades de um gerente de projeto
+- **Tomada de Decisão:** Reunir informações e facilitar a tomada de decisões informadas.
+- **Comunicação e Escalonamento:** Comunicar-se efetivamente e escalonar riscos e problemas para as partes interessadas.
+- **Flexibilidade:** Adaptar-se a mudanças inesperadas e manter a calma sob pressão.
+- **Organização:** Gerenciar processos e elementos do projeto para evitar erros e atrasos.
+
+
 
 
 
