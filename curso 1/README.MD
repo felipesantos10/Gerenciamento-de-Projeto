@@ -151,6 +151,20 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
 - **Flexibilidade:** Adaptar-se a mudanças inesperadas e manter a calma sob pressão.
 - **Organização:** Gerenciar processos e elementos do projeto para evitar erros e atrasos.
 
+### Liderança e dinâmica de equipe
+- As habilidades interpessoais são essenciais para construir relacionamentos com colegas de equipe e partes interessadas.
+- Essas habilidades incluem **comunicação, negociação, mediação de conflitos e compreensão de motivações.**
+- A influência sem autoridade é a capacidade de orientar os colegas de equipe sem ser seu gerente direto.
+- As habilidades interpessoais são usadas para influenciar sem autoridade e orientar os resultados do projeto.
+- Em entrevistas de emprego para cargos de gerenciamento de projetos, você pode ser solicitado a discutir um momento em que influenciou sem autoridade.
+
+**Habilidades interpessoais essenciais para um gerente de projeto influenciar sem autoridade:**
+
+- **Comunicação:** Verificar o progresso dos colegas de equipe e fornecer feedback claro sobre a qualidade do trabalho.
+- **Negociação:** Trabalhar com colegas de equipe para chegar a um acordo sobre novos prazos ou equilibrar suas necessidades com o que é melhor para o projeto.
+- **Mediação de conflitos:** Resolver disputas entre colegas de equipe para garantir que o projeto não seja prejudicado.
+- **Compreensão de motivações:** Conhecer os colegas de equipe e descobrir o que os motiva a fazer seu melhor trabalho.
+
 
 
 
