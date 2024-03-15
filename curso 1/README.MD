@@ -173,6 +173,9 @@ entendam.
 - Existem várias metodologias de gerenciamento de projeto diferentes, cada uma com seus próprios pontos fortes e fracos.
 - A estrutura organizacional e a cultura podem impactar a forma como os projetos são gerenciados.
 
+## _Módulo 3_
+
+
 
 
 
