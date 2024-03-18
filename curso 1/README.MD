@@ -196,6 +196,26 @@ entendam.
 - Aumentar a satisfação da equipe: Fornecer feedback à equipe sobre seu desempenho e reconhecer suas contribuições.
 
 
+### Tarefas do Ciclo de Vida do Projeto
+**Iniciação do Projeto**
+
+- Definir metas do projeto
+- Identificar recursos
+- Criar uma proposta de projeto
+- Obter aprovação
+
+**Planejamento do Projeto**
+
+- Criar um orçamento
+- Definir o cronograma do projeto
+- Estabelecer a equipe do projeto
+- Atribuir funções e responsabilidades
+- Planejar riscos e mudanças
+- Comunicar o plano à equipe e às partes interessadas
+
+
+
+
 
 
 
