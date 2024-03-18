@@ -235,7 +235,6 @@ entendam.
 - Qual será o custo do projeto? Quais são os benefícios?
 
 **Traçar um plano**
-Nesta fase, trace um plano para levar seu projeto do início ao fim. 
 - Crie um plano de projeto detalhado. Quais são os principais marcos? Quais tarefas ou entregas compõem cada marco?  
 - Elabore o cronograma para que você possa gerenciar adequadamente os recursos, orçamento, materiais e cronograma. Aqui, você criará um orçamento detalhado.
 
