@@ -214,6 +214,15 @@ entendam.
 - Comunicar o plano à equipe e às partes interessadas
 
 
+**Ciclo de Vida do Gerenciamento de Projetos**
+
+- Iniciação: Definir o escopo, objetivos e restrições do projeto.
+- Planejamento: Criar um plano de projeto detalhando tarefas, cronogramas e recursos.
+- Execução: Colocar o plano em ação, gerenciar a equipe e monitorar o progresso.
+- Monitoramento e Controle: Acompanhar o progresso, identificar riscos e fazer ajustes conforme necessário.
+- Encerramento: Concluir o projeto, entregar os resultados e documentar as lições aprendidas.
+
+
 
 
 
