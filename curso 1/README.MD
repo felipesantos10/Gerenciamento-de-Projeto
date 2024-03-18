@@ -223,6 +223,38 @@ entendam.
 - Encerramento: Concluir o projeto, entregar os resultados e documentar as lições aprendidas.
 
 
+### O ciclo de vida do projeto
+**Iniciar o projeto**
+- Quem são as partes interessadas?
+- Quais são os objetivos do cliente?
+- Qual é o propósito e a missão do projeto?
+- Quais são os objetivos mensuráveis para a equipe?
+- O que o projeto está tentando melhorar? 
+- Quando este projeto precisa estar concluído? 
+- Quais habilidades e recursos o projeto exigirá? 
+- Qual será o custo do projeto? Quais são os benefícios?
+
+**Traçar um plano**
+Nesta fase, trace um plano para levar seu projeto do início ao fim. 
+- Crie um plano de projeto detalhado. Quais são os principais marcos? Quais tarefas ou entregas compõem cada marco?  
+- Elabore o cronograma para que você possa gerenciar adequadamente os recursos, orçamento, materiais e cronograma. Aqui, você criará um orçamento detalhado.
+
+**Executar o projeto**
+- Monitore sua equipe conforme ela conclui as tarefas do projeto. 
+- Derrube quaisquer barreiras que retardem ou impeçam a equipe de concluir as tarefas. 
+- Ajude a manter a equipe ciente do cronograma e das expectativas de entrega.
+- Aborde os pontos fracos do seu processo ou examine os locais onde a sua equipe pode precisar de treinamento adicional para cumprir as metas do projeto.
+- Adapte-se às mudanças no projeto conforme elas surgem.
+
+**Encerrar o projeto**
+- Identifique se sua equipe concluiu todos os resultados solicitados. 
+- Libere sua equipe para que possam apoiar outros projetos dentro da empresa.
+- Reserve um tempo com sua equipe para comemorar seus sucessos. 
+- Transmita todas as entregas restantes e receba a aprovação das partes interessadas.
+- Documente as lições que você e sua equipe aprenderam durante o projeto.
+- Reflita sobre maneiras de melhorar no futuro.
+
+
 
 
 
