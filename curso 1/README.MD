@@ -278,7 +278,7 @@ entendam.
     - Adequado para projetos com requisitos flexíveis e alto risco de mudanças.
     - Exemplo de projeto adequado para Agile: Desenvolvimento de website com requisitos em evolução.
 
-**Metodologia Lean Six Sigma:**
+### Metodologia Lean Six Sigma:
 
 - Combinação de Lean e Six Sigma.
 - Foco em economia de custos, melhoria da qualidade e agilidade de processos.
