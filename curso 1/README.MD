@@ -176,7 +176,7 @@ entendam.
 ## _Módulo 3_
 
 ### Introdução: o ciclo de vida e as metodologias de gerenciamento de projetos
-- O ciclo de vida do projeto é uma estrutura que orienta os gerentes de projeto na execução de projetos com sucesso. Ele consiste em quatro fases principais:
+- O ciclo de vida do projeto é uma **estrutura que orienta os gerentes de projeto na execução de projetos com sucesso.** Ele consiste em quatro fases principais:
 
 - **Iniciar o Projeto:** Definir metas, identificar recursos e obter aprovação.
 - **Planejar o Projeto:** Criar um plano abrangente que inclua orçamento, cronograma e atribuições de tarefas.
@@ -254,8 +254,29 @@ entendam.
 - Reflita sobre maneiras de melhorar no futuro.
 
 
+### Introdução às metodologias de gerenciamento de projetos
 
+- Uma metodologia de gerenciamento de projetos é um conjunto de princípios e processos para se assumir um projeto ao longo do ciclo de vida dele. O método pode ser **linear** (com uma tarefa concluída antes que a próxima possa começar) ou **iterativo** (com algumas tarefas acontecendo ao mesmo tempo).
+- A escolha da metodologia depende do tipo de projeto e de seus objetivos.
+- Projetos lineares são adequados para projetos com requisitos claros e mudanças mínimas.
+- Projetos iterativos são adequados para projetos com requisitos flexíveis e mudanças antecipadas.
+- O Google adota uma abordagem híbrida de gerenciamento de projetos, combinando diferentes métodos conforme necessário.
 
+### Metodologias de gerenciamento de projetos
+
+- **Waterfall:** abordagem sequencial, adequada para projetos com fases bem definidas e mudanças caras.
+- **Agile:** abordagem iterativa e flexível, adequada para projetos com alta incerteza e necessidade de feedback rápido.
+
+- Características do Waterfall:
+    - Fases ordenadas e lineares.
+    - Ênfase no planejamento antecipado e na definição clara de escopo.
+    - Adequado para projetos com requisitos estáveis e baixo risco de mudanças.
+    - Exemplo de projeto adequado para Waterfall: Catering de eventos com orçamento limitado.
+- Características do Agile:
+    - Fases sobrepostas e iterativas.
+    - Foco na colaboração da equipe e no feedback do cliente.
+    - Adequado para projetos com requisitos flexíveis e alto risco de mudanças.
+    - Exemplo de projeto adequado para Agile: Desenvolvimento de website com requisitos em evolução.
 
 
 
