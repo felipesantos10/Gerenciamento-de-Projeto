@@ -278,6 +278,34 @@ entendam.
     - Adequado para projetos com requisitos flexíveis e alto risco de mudanças.
     - Exemplo de projeto adequado para Agile: Desenvolvimento de website com requisitos em evolução.
 
+**Metodologia Lean Six Sigma:**
+
+- Combinação de Lean e Six Sigma.
+- Foco em economia de custos, melhoria da qualidade e agilidade de processos.
+- Promove a colaboração da equipe para um ambiente de trabalho positivo.
+
+**Ciclo DMAIC:**
+- Define, Mede, Analisa, Melhora e Controla.
+- Estratégia para melhoria de processos, identificando e corrigindo problemas.
+- Garante os melhores resultados possíveis para o projeto.
+
+**Fases do DMAIC:**
+- Definir: Estabelecer o objetivo do projeto e os requisitos.
+- Medir: Mapear o processo atual e coletar dados para identificar problemas.
+- Analisar: Identificar lacunas e causas dos problemas.
+- Melhorar: Implementar soluções para corrigir problemas.
+- Controlar: Monitorar e manter o processo aprimorado.
+
+**Aplicações do Lean Six Sigma:**
+- Melhoria de processos complexos ou de alto risco.
+- Aumento de vendas e conversões.
+- Eliminação de gargalos.
+
+**Benefícios do Lean Six Sigma:**
+- Evita pular etapas importantes.
+- Aumenta as chances de sucesso do projeto.
+- Fornece soluções permanentes para problemas complexos.
+
 
 
 
