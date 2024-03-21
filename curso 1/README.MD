@@ -173,7 +173,7 @@ entendam.
 - Existem várias metodologias de gerenciamento de projeto diferentes, cada uma com seus próprios pontos fortes e fracos.
 - A estrutura organizacional e a cultura podem impactar a forma como os projetos são gerenciados.
 
-## _Módulo 3_
+## _MODULO 3_
 
 ### Introdução: o ciclo de vida e as metodologias de gerenciamento de projetos
 - O ciclo de vida do projeto é uma **estrutura que orienta os gerentes de projeto na execução de projetos com sucesso.** Ele consiste em quatro fases principais:
@@ -319,7 +319,7 @@ _Metodologia Lean:_
 *Método 5S:*
 
 - Composto por cinco etapas para promover organização e eficiência no local de trabalho.
-- lassificar: remoção de itens desnecessários.
+- Classificar: remoção de itens desnecessários.
 - Colocar em ordem: organização dos itens necessários para fácil uso.
 - Brilhar: manter o espaço de trabalho limpo diariamente.
 - Padronizar: execução consistente do processo.
@@ -349,6 +349,8 @@ _Aplicação do Six Sigma:_
 - Melhoria contínua de processos que geram produtos inaceitáveis.
 
 _Integração com Lean:_ combinação de Lean e Six Sigma para melhorar o desempenho do projeto.
+
+## _MODULO 4_
 
 
 
