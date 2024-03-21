@@ -306,6 +306,50 @@ entendam.
 - Aumenta as chances de sucesso do projeto.
 - Fornece soluções permanentes para problemas complexos.
 
+**_Notas adicionais_**
+_Metodologia Lean:_
+
+- Originada na manufatura, focada na remoção de desperdícios para agregar valor às operações.
+- Reconhece oito tipos de desperdício e problemas comuns associados na indústria.
+
+*Implementação do Gerenciamento de Projetos Lean:*
+- Propõe-se para uso eficiente de recursos, redução de desperdício e otimização de processos.
+- Utiliza os pilares do 5S (Classificar, Colocar em ordem, Brilhar, Padronizar e Sustentar).
+
+*Método 5S:*
+
+- Composto por cinco etapas para promover organização e eficiência no local de trabalho.
+- lassificar: remoção de itens desnecessários.
+- Colocar em ordem: organização dos itens necessários para fácil uso.
+- Brilhar: manter o espaço de trabalho limpo diariamente.
+- Padronizar: execução consistente do processo.
+- Sustentar: criar o hábito de manter os procedimentos corretos.
+
+*Sistema Kanban:*
+- Ferramenta de visualização para otimizar o fluxo de trabalho da equipe.
+- Usa cartões movidos de uma coluna para outra para mostrar o progresso e coordenar o trabalho.
+
+_Six Sigma:_
+
+- Metodologia para reduzir variações e garantir processos de qualidade.
+- Origina-se de estatísticas, buscando qualidade de 99,9996%.
+
+_Princípios-chave do Six Sigma:_
+1. Foco no cliente.
+2. Compreensão do processo de trabalho.
+3. Fluxo suave nos processos.
+4. Redução de desperdício e foco no valor.
+5. Eliminação de defeitos pela remoção de variação.
+6. Colaboração com a equipe.
+7. Abordagem sistemática para melhoria.
+
+_Aplicação do Six Sigma:_
+- Identificação de aspectos mensuráveis do produto ou processo.
+- Inspeção desses aspectos e rejeição de produtos que não atendem ao padrão Six Sigma.
+- Melhoria contínua de processos que geram produtos inaceitáveis.
+
+_Integração com Lean:_ combinação de Lean e Six Sigma para melhorar o desempenho do projeto.
+
 
 
 
