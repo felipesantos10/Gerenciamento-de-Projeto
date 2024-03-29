@@ -381,6 +381,13 @@ Escritorio de Gerenciamento de Projetos - PMO
 
 ### Entendendo o impacto da Cultura Organizacional
 
+**O que é cultura organizacional ?** A cultura organizacional é o conjunto de valores, crenças e comportamentos compartilhados pelos funcionários de uma organização. É a "personalidade" da organização e influencia fortemente a forma como as decisões são tomadas, o trabalho é realizado e as pessoas interagem.
+
+- Compreender a cultura organizacional é essencial para navegar com eficácia em uma equipe e concluir projetos com sucesso.
+- A cultura organizacional pode ser influenciada pela missão, valores, história e estrutura da organização.
+- Os gerentes de projeto podem identificar a cultura organizacional fazendo perguntas, observando o comportamento dos funcionários e entendendo seu próprio impacto como agentes de mudança.
+- Adaptar-se à cultura organizacional envolve fazer perguntas, fazer observações e entender o próprio impacto.
+
 
 
 
