@@ -362,6 +362,12 @@ Estrutura Organizacional e o Gerente de Projeto
         - **Matriz:** Estrutura em grade com pessoas acima e em departamentos adjacentes que esperam atualizações sobre o progresso do trabalho.
 - O tipo de estrutura organizacional afeta a forma como os gerentes de projeto se comunicam e trabalham com outras pessoas.É importante entender a estrutura organizacional de uma empresa durante uma entrevista para esclarecer as expectativas do cargo.
 
+Estrutura Classica vs Estrutura Matriz
+- A **estrutura organizacional clássica** é um sistema de hierarquia de cima para baixo, onde um Diretor Executivo (CEO) tem autoridade direta sobre vários gerentes de departamento. O gerente do departamento tem autoridade direta sobre várias outras seções de funcionários. Este sistema requer comunicação tanto para cima quanto para baixo na escada. Em uma estrutura clássica, a autoridade vem do topo e filtra para baixo. Relatórios frequentes de atualizações de status do projeto podem precisar passar pelos níveis de gerenciamento para manter os líderes mais altos informados. Organizações clássicas também são chamadas de **organizações funcionais** porque a organização é dividida em departamentos baseados na função. Cada departamento é liderado por um gestor funcional, e os funcionários são agrupados de acordo com as funções de seu cargo. 
+- A **estrutura de matriz** difere da estrutura clássica no fato de que os colaboradores têm dois ou mais gestores. Nas estruturas de matriz, ainda existem pessoas acima de você, mas também há pessoas em departamentos adjacentes com os quais você precisará se comunicar sobre o progresso do seu trabalho. As áreas funcionais tendem a se cruzar com mais frequência e, dependendo da natureza do trabalho, o gerente responsável por cada área tem mais autoridade. 
+
+
+
 
 
 
