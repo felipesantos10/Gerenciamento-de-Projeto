@@ -59,7 +59,7 @@ Exemplos de habilidades de gerenciamento de projetos incluem planejamento, organ
 
 ## _MODULO 02_
 
-### O valor de um gerente de projeto
+#### O valor de um gerente de projeto
 - Os gerentes de projeto são responsáveis por orientar os projetos do início ao fim.
 - Eles usam habilidades organizacionais e interpessoais para liderar suas equipes.
 - Os gerentes de projeto seguem um processo que envolve **planejamento, organização, gerenciamento de tarefas, orçamento e controle de custos**.
@@ -75,15 +75,15 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
 - Identificam áreas onde os membros da equipe podem precisar de suporte.
 - Mantêm contato regular com as partes interessadas externas para mantê-las informadas e obter feedback.
 
-### Foco no cliente
+#### Foco no cliente
 - Destaca a importância do cliente no sucesso de qualquer negócio, especialmente no campo de gerenciamento de projetos. Os clientes, internos ou externos, são aqueles que definem os requisitos do projeto, estabelecem diretrizes como orçamento e prazos, e devem ser o foco central para garantir o sucesso do projeto. Os gerentes de projeto podem agregar valor construindo relacionamentos com os clientes, assegurando uma clara compreensão de suas expectativas e dedicando tempo para garantir sua satisfação com o resultado final do projeto.
 
- ### Construção de uma ótima equipe
+ #### Construção de uma ótima equipe
  - Ressalta a importância da construção de uma equipe eficaz em projetos, ressaltando que a equipe é o maior recurso do projeto. Um gerente de projeto bem-sucedido entende as motivações, pontos fortes e fracos de cada membro da equipe, identificando a equipe certa para o projeto e permitindo que ela tenha sucesso. Para formar uma grande equipe, é essencial considerar as habilidades necessárias para o projeto e os recursos disponíveis, alinhando-os com os requisitos do cliente. O texto enfatiza a importância de trazer pessoas com as habilidades certas e valorizar cada membro da equipe, demonstrando apreço e confiança através da escuta ativa, resposta às necessidades e envolvimento nos processos de tomada de decisão.
 
 
 
-### Principais funções e responsabilidades do gerente de projeto
+#### Principais funções e responsabilidades do gerente de projeto
 - Os gerentes de projeto são responsáveis por **planejar, organizar, gerenciar tarefas, controlar custos** e outros fatores para **garantir que os projetos sejam concluídos dentro do orçamento e do prazo aprovados**.
 - As responsabilidades específicas incluem:
     - Criar processos e usar ferramentas de produtividade;
@@ -93,7 +93,7 @@ Maneiras pelas quais os gerentes de projeto agregam valor às suas equipes e org
     - Gerenciar tarefas e acompanhar o progresso;
 - Os gerentes de projeto trabalham em estreita colaboração com as equipes e as partes interessadas para garantir que todos estejam alinhados e que o projeto seja bem-sucedido.
 
-### Responsabilidades que utilizam habilidades interpessoais
+#### Responsabilidades que utilizam habilidades interpessoais
 -  **Habilidades interpessoais** são os comportamentos que você usa para interagir com outras pessoas, como comunicação, escuta ativa e liderança.
 
 **Ensino e mentoria**
@@ -135,7 +135,7 @@ entendam.
 - Política de abertura e construção de confiança são fundamentais.
 - Manter o otimismo contribui para o sucesso do projeto.
 
-### A função de um gerente de projeto dentro de uma equipe
+#### A função de um gerente de projeto dentro de uma equipe
 
 - O gerente de projeto não é necessariamente o gerente direto dos membros da equipe do projeto.
 - O gerente de projeto é responsável por orientar a equipe e garantir que ela tenha o suporte necessário para concluir o projeto.
@@ -146,13 +146,13 @@ entendam.
     - Ajudar os membros da equipe a adotar os fluxos de trabalho e estilos de gerenciamento de projeto corretos.
     - Colaborar com outras equipes da organização para atender aos requisitos com base no projeto, escopo, cronograma e orçamento.
 
-### As principais habilidades de um gerente de projeto
+#### As principais habilidades de um gerente de projeto
 - **Tomada de Decisão:** Reunir informações e facilitar a tomada de decisões informadas.
 - **Comunicação e Escalonamento:** Comunicar-se efetivamente e escalonar riscos e problemas para as partes interessadas.
 - **Flexibilidade:** Adaptar-se a mudanças inesperadas e manter a calma sob pressão.
 - **Organização:** Gerenciar processos e elementos do projeto para evitar erros e atrasos.
 
-### Liderança e dinâmica de equipe
+#### Liderança e dinâmica de equipe
 - As habilidades interpessoais são essenciais para construir relacionamentos com colegas de equipe e partes interessadas.
 - Essas habilidades incluem **comunicação, negociação, mediação de conflitos e compreensão de motivações.**
 - A influência sem autoridade é a capacidade de orientar os colegas de equipe sem ser seu gerente direto.
@@ -175,7 +175,7 @@ entendam.
 
 ## _MODULO 3_
 
-### Introdução: o ciclo de vida e as metodologias de gerenciamento de projetos
+#### Introdução: o ciclo de vida e as metodologias de gerenciamento de projetos
 - O ciclo de vida do projeto é uma **estrutura que orienta os gerentes de projeto na execução de projetos com sucesso.** Ele consiste em quatro fases principais:
 
 - **Iniciar o Projeto:** Definir metas, identificar recursos e obter aprovação.
@@ -223,7 +223,7 @@ entendam.
 - Encerramento: Concluir o projeto, entregar os resultados e documentar as lições aprendidas.
 
 
-### O ciclo de vida do projeto
+#### O ciclo de vida do projeto
 **Iniciar o projeto**
 - Quem são as partes interessadas?
 - Quais são os objetivos do cliente?
@@ -254,7 +254,7 @@ entendam.
 - Reflita sobre maneiras de melhorar no futuro.
 
 
-### Introdução às metodologias de gerenciamento de projetos
+#### Introdução às metodologias de gerenciamento de projetos
 
 - Uma metodologia de gerenciamento de projetos é um conjunto de princípios e processos para se assumir um projeto ao longo do ciclo de vida dele. O método pode ser **linear** (com uma tarefa concluída antes que a próxima possa começar) ou **iterativo** (com algumas tarefas acontecendo ao mesmo tempo).
 - A escolha da metodologia depende do tipo de projeto e de seus objetivos.
@@ -262,7 +262,7 @@ entendam.
 - Projetos iterativos são adequados para projetos com **requisitos flexíveis** e **mudanças antecipadas**.
 - O Google adota uma abordagem híbrida de gerenciamento de projetos, combinando diferentes métodos conforme necessário.
 
-### Metodologias de gerenciamento de projetos
+#### Metodologias de gerenciamento de projetos
 
 - **Waterfall:** abordagem sequencial, adequada para projetos com **fases bem definidas** e **mudanças caras**.
 - **Agile:** abordagem iterativa e flexível, adequada para projetos com **alta incerteza** e **necessidade de feedback rápido**.
@@ -278,7 +278,7 @@ entendam.
     - Adequado para projetos com requisitos flexíveis e alto risco de mudanças.
     - Exemplo de projeto adequado para Agile: Desenvolvimento de website com requisitos em evolução.
 
-### Metodologia Lean Six Sigma:
+#### Metodologia Lean Six Sigma:
 
 - Combinação de Lean e Six Sigma.
 - Foco em economia de custos, melhoria da qualidade e agilidade de processos.
@@ -391,7 +391,7 @@ Escritorio de Gerenciamento de Projetos - PMO
 
 ### Compreender a Gestão de Mudanças
 
-#### Gerenciamento de Mudanças;
+### Gerenciamento de Mudanças;
 - O gerenciamento de mudanças é o processo de entregar um projeto concluído e fazer com que as pessoas o adotem.
 - Compreender o gerenciamento de mudanças pode garantir que um projeto seja concluído com sucesso e que a organização aceite e adote as recomendações do projeto.
 - Existem muitos modelos e estratégias de gerenciamento de mudanças, mas todos compartilham os mesmos conceitos gerais.
