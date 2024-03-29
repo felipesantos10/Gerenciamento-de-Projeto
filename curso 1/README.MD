@@ -367,6 +367,12 @@ Estrutura Classica vs Estrutura Matriz
 - A **estrutura de matriz** difere da estrutura clássica no fato de que os colaboradores têm dois ou mais gestores. Nas estruturas de matriz, ainda existem pessoas acima de você, mas também há pessoas em departamentos adjacentes com os quais você precisará se comunicar sobre o progresso do seu trabalho. As áreas funcionais tendem a se cruzar com mais frequência e, dependendo da natureza do trabalho, o gerente responsável por cada área tem mais autoridade. 
 
 
+Como a estrutura organizacional impacta o gerenciamento de projetos
+
+- A estrutura organizacional impacta o gerenciamento de projetos por meio da **autoridade** e **disponibilidade de recursos**. Na estrutura clássica, os gerentes de projeto podem ter menos autoridade e um escopo mais restrito, dependendo da aprovação de gerentes e diretores.Na estrutura matricial, os funcionários podem ter vários gerentes, o que pode afetar a autoridade do gerente de projeto e exigir cooperação e negociação.
+- É crucial identificar e se comunicar com as partes interessadas e obter aprovação antes do início do projeto em uma estrutura matricial.As estruturas matriciais enfatizam o foco no projeto e concedem mais autonomia aos gerentes de projeto.
+
+
 
 
 
