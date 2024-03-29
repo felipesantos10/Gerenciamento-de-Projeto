@@ -258,21 +258,21 @@ entendam.
 
 - Uma metodologia de gerenciamento de projetos é um conjunto de princípios e processos para se assumir um projeto ao longo do ciclo de vida dele. O método pode ser **linear** (com uma tarefa concluída antes que a próxima possa começar) ou **iterativo** (com algumas tarefas acontecendo ao mesmo tempo).
 - A escolha da metodologia depende do tipo de projeto e de seus objetivos.
-- Projetos lineares são adequados para projetos com requisitos claros e mudanças mínimas.
-- Projetos iterativos são adequados para projetos com requisitos flexíveis e mudanças antecipadas.
+- Projetos lineares são adequados para projetos com **requisitos claros** e **mudanças mínimas**.
+- Projetos iterativos são adequados para projetos com **requisitos flexíveis** e **mudanças antecipadas**.
 - O Google adota uma abordagem híbrida de gerenciamento de projetos, combinando diferentes métodos conforme necessário.
 
 ### Metodologias de gerenciamento de projetos
 
-- **Waterfall:** abordagem sequencial, adequada para projetos com fases bem definidas e mudanças caras.
-- **Agile:** abordagem iterativa e flexível, adequada para projetos com alta incerteza e necessidade de feedback rápido.
+- **Waterfall:** abordagem sequencial, adequada para projetos com **fases bem definidas** e **mudanças caras**.
+- **Agile:** abordagem iterativa e flexível, adequada para projetos com **alta incerteza** e **necessidade de feedback rápido**.
 
-- Características do Waterfall:
+- **Características do Waterfall**:
     - Fases ordenadas e lineares.
     - Ênfase no planejamento antecipado e na definição clara de escopo.
     - Adequado para projetos com requisitos estáveis e baixo risco de mudanças.
     - Exemplo de projeto adequado para Waterfall: Catering de eventos com orçamento limitado.
-- Características do Agile:
+- **Características do Agile**:
     - Fases sobrepostas e iterativas.
     - Foco na colaboração da equipe e no feedback do cliente.
     - Adequado para projetos com requisitos flexíveis e alto risco de mudanças.
@@ -351,6 +351,16 @@ _Aplicação do Six Sigma:_
 _Integração com Lean:_ combinação de Lean e Six Sigma para melhorar o desempenho do projeto.
 
 ## _MODULO 4_
+
+### Entendendo a Estrutura Organizacional
+
+Estrutura Organizacional e o Gerente de Projeto
+
+- A estrutura organizacional define como uma empresa é **organizada** e como as ***tarefas são divididas e coordenadas.**
+- **Existem dois tipos principais de estruturas organizacionais:**
+        - **Clássica:** Cadeia de comando tradicional com CEO no topo, seguido por diretores, gerentes e funcionários.
+        - **Matriz:** Estrutura em grade com pessoas acima e em departamentos adjacentes que esperam atualizações sobre o progresso do trabalho.
+- O tipo de estrutura organizacional afeta a forma como os gerentes de projeto se comunicam e trabalham com outras pessoas.É importante entender a estrutura organizacional de uma empresa durante uma entrevista para esclarecer as expectativas do cargo.
 
 
 
