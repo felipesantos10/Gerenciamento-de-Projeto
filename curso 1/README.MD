@@ -372,6 +372,13 @@ Como a estrutura organizacional impacta o gerenciamento de projetos
 - A estrutura organizacional impacta o gerenciamento de projetos por meio da **autoridade** e **disponibilidade de recursos**. Na estrutura clássica, os gerentes de projeto podem ter menos autoridade e um escopo mais restrito, dependendo da aprovação de gerentes e diretores.Na estrutura matricial, os funcionários podem ter vários gerentes, o que pode afetar a autoridade do gerente de projeto e exigir cooperação e negociação.
 - É crucial identificar e se comunicar com as partes interessadas e obter aprovação antes do início do projeto em uma estrutura matricial.As estruturas matriciais enfatizam o foco no projeto e concedem mais autonomia aos gerentes de projeto.
 
+Escritorio de Gerenciamento de Projetos - PMO
+- Um Diretor de Gerenciamento de Programas lidera uma equipe de gerentes de projeto para executar e entregar produtos aos usuários.
+- Um Escritório de Gerenciamento de Projetos (PMO) coordena todas as partes de um projeto, incluindo produto, engenharia e negócios.
+- Os gerentes de projeto têm uma visão geral de tudo o que acontece em um projeto.
+- Trabalhar em um PMO permite compartilhar melhores práticas e aprender com outros gerentes de projeto.
+- Os benefícios de trabalhar em um PMO incluem compartilhar melhores práticas, aprender com outros gerentes de projeto e ter uma comunidade de pessoas com ideias semelhantes.
+
 
 
 
