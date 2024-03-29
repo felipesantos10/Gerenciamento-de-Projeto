@@ -389,6 +389,31 @@ Escritorio de Gerenciamento de Projetos - PMO
 - Adaptar-se à cultura organizacional envolve fazer perguntas, fazer observações e entender o próprio impacto.
 
 
+### Compreender a Gestão de Mudanças
+
+#### Gerenciamento de Mudanças;
+- O gerenciamento de mudanças é o processo de entregar um projeto concluído e fazer com que as pessoas o adotem.
+- Compreender o gerenciamento de mudanças pode garantir que um projeto seja concluído com sucesso e que a organização aceite e adote as recomendações do projeto.
+- Existem muitos modelos e estratégias de gerenciamento de mudanças, mas todos compartilham os mesmos conceitos gerais.
+
+
+#### Conceitos Básicos de Gerenciamento de Mudanças
+
+- **Criar um senso de propriedade e urgência:** Fazer com que os outros se sintam capacitados para assumir a responsabilidade pela conclusão bem-sucedida de suas tarefas e entender que o projeto é importante.
+- **Selecionar a equipe certa:** Encontrar pessoas cujos conhecimentos e habilidades se complementam.
+- **Comunicar-se efetivamente:** Ser transparente e direto com seus planos e ideias, e disponibilizar informações.
+
+#### Dicas para Gerenciar Mudanças
+- Ajude as pessoas a se ajustarem.
+- Recompense seus esforços.
+- Lembre-os do valor geral do projeto a longo prazo.
+
+
+#### Gerenciamento Ágil de Mudanças
+- Os princípios do gerenciamento ágil de projetos se alinham com o gerenciamento de mudanças bem-sucedido.
+- As equipes ágeis são receptivas a mudanças e estão constantemente se adaptando.
+
+
 
 
 
