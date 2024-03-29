@@ -379,6 +379,8 @@ Escritorio de Gerenciamento de Projetos - PMO
 - Trabalhar em um PMO permite compartilhar melhores práticas e aprender com outros gerentes de projeto.
 - Os benefícios de trabalhar em um PMO incluem compartilhar melhores práticas, aprender com outros gerentes de projeto e ter uma comunidade de pessoas com ideias semelhantes.
 
+### Entendendo o impacto da Cultura Organizacional
+
 
 
 
