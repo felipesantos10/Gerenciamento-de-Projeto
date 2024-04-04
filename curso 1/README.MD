@@ -391,7 +391,7 @@ Escritorio de Gerenciamento de Projetos - PMO
 
 ### Compreender a Gestão de Mudanças
 
-### Gerenciamento de Mudanças;
+#### Gerenciamento de Mudanças;
 - O gerenciamento de mudanças é o processo de entregar um projeto concluído e fazer com que as pessoas o adotem.
 - Compreender o gerenciamento de mudanças pode garantir que um projeto seja concluído com sucesso e que a organização aceite e adote as recomendações do projeto.
 - Existem muitos modelos e estratégias de gerenciamento de mudanças, mas todos compartilham os mesmos conceitos gerais.
@@ -412,6 +412,17 @@ Escritorio de Gerenciamento de Projetos - PMO
 #### Gerenciamento Ágil de Mudanças
 - Os princípios do gerenciamento ágil de projetos se alinham com o gerenciamento de mudanças bem-sucedido.
 - As equipes ágeis são receptivas a mudanças e estão constantemente se adaptando.
+
+#### Participando das Gestões de Mudanças
+A gestão de mudanças é um grande empreendimento e um projeto em si.
+Como gerente de projeto, você pode não ser sempre responsável por liderar e planejar todo o processo de gestão de mudanças.
+- Ser empático com os desafios da gestão de mudanças pode ajudá-lo a apoiar o processo de maneiras sutis.
+- Participar da gestão de mudanças pode significar comunicar-se com os funcionários ao longo do projeto sobre como o sistema proporcionará uma melhor experiência para seus clientes.
+- Você apoia o processo fornecendo informações aos funcionários para que eles se sintam preparados para se ajustar às mudanças assim que o sistema estiver pronto para ser lançado.
+
+
+#### Governança
+Governança nos negócios refere-se à estrutura de gestão na qual as decisões são tomadas e as responsabilidades são atribuídas. Em resumo, trata-se de compreender quem está no comando. Este texto discute tanto a governança corporativa quanto a governança de projetos. Explora a relação entre elas e a importância de entender como um projeto se alinha à estrutura de governança da organização.
 
 
 
