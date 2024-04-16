@@ -6,7 +6,7 @@
 
 ## Descrição:
 
-Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parceria com o Google! Este curso foi projetado para fornecer uma compreensão imersiva das práticas e habilidades necessárias para ter sucesso em um cargo de gerenciamento de projetos de nível inicial. Ao longo deste curso, você aprenderá a criar documentação e artefatos de projeto eficazes em diversas fases de um projeto, além de explorar os fundamentos do gerenciamento de projetos ágil, com foco na implementação de eventos Scrum, construção de artefatos Scrum e compreensão dos papéis do Scrum.
+Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parceria com o Google! Este curso foi projetado para fornecer uma compreensão imersiva das práticas e habilidades necessárias para ter sucesso em um cargo de gerenciamento de projetos de nível inicial. Ao longo deste curso, você aprenderá a criar documentação e artefatos de projeto eficazes em diversas fases de um projeto, além de explorar os fundamentos do gerenciamento de projetos ágil, com foco na implementação de eventos Scrum, construção de artefatos Scrum e compreensão dos papéis do Scrum
 
 ## O que irei aprender:
 
