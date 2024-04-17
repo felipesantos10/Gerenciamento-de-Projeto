@@ -37,7 +37,7 @@ Bem-vindo ao curso de Gerenciamento de Projetos oferecido pela Coursera em parce
   - Explicar o ciclo de vida do gerenciamento de projetos e comparar diferentes metodologias de gerenciamento de programas.
   - Definir estrutura organizacional e cultura organizacional e explicar como isso impacta o gerenciamento de projetos.
 
-### Project Initiation: Starting a Successful Project (Curso 2)
+### Project Initiation: Starting a Successful Project - Curso 2
 - Duração: 23 horas
 - **O que irei  aprender:**
   - Compreender a importância da fase de iniciação do ciclo de vida do projeto.
