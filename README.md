@@ -2,7 +2,7 @@
 <img  src="/image/coursera-logo.png" margin="10px" />
 </p>
 
-# Gerenciamento de Projetos - Coursera + Google
+# Gerenciamento de Projetos - Coursera & Google
 
 ## Descrição:
 
